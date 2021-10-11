@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.5703125" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5703125" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/drawable/splash.xml" value="0.5703125" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_hayvanlar.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_meyve_renk.xml" value="0.44801512287334594" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_meyve_sayi.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_meyve_sepeti.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_meyveler.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_meyveler_ogrenme.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_renkler.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_sayilar.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/activity_sekiller.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/slide_meyve_renk.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/slide_meyve_sayi.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Seyma/AndroidStudioProjects/AkllBdk/app/src/main/res/layout/slide_meyveler_ogrenme.xml" value="0.3307291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <stroke android:width="2dp"
+        android:color="#040009">
+    </stroke>
+    <!--stroke ile yuvarlağimizin kenarını siyah renge boyamış olduk.-->
+
+    <size android:width="120dp"
+        android:height="120dp">
+    </size>
+
+</shape>
